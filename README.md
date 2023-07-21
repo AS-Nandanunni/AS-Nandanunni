@@ -1,5 +1,5 @@
 # :v: Hi, I'm [Nandanunni](https://github.com/Nandan-unni),
-I'm a full stack developer from India, currently doing BTech in Cochin University of Science and Technology. \
+I'm a full stack developer from India \
 <br />
 
 ## :hourglass: My GitHub Stats
